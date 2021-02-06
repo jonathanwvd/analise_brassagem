@@ -1,11 +1,8 @@
 # Análise de dados de brassagem de produção artesanal de cerveja
 
 Nesse repositório, está a análise básica dos dados de uma brassagem de produção
-artesanal de cerveja.
+artesanal de cerveja. Conteúdo complementar especialmente produzido para o Minicurso EPM Analysis.
 
-Conteúdo complementar especialmente produzido para o Minicurso EPM Analysis.
-
-Arquivo do Jupyter Notebook com o memorial descritivo da análise pode ser encontrado aqui:
 
 Vídeo da brassagem: [AmericanStout IoT - powerd by EPM](https://youtu.be/1FJFZEUYmBs)
 
